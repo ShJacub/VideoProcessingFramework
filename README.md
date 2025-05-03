@@ -8,11 +8,11 @@ pyproject.toml files
 
 ## Install  
 -----
+-----
 - Installation is made inside nvidia/cuda:12.4.1-devel-ubuntu22.04 docker container 
   - Ubuntu22.04  
   - cuda12.4.1
   - python3.10.12
------
 
 #### torch==2.5.1
 1. Replace  
