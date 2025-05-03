@@ -37,11 +37,11 @@ pyproject.toml files
 3. Make installation described in original repo  
 
 -----
+-----
 - Installation is made inside nvidia/cuda:11.8.0-devel-ubuntu20.04 docker container 
   - Ubuntu20.04  
   - cuda11.8.0
   - python3.8.10
------
 
 #### torch==2.2.2  
 1. Replace  
