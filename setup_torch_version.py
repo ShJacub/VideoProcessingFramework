@@ -1,4 +1,4 @@
-import torch.__version__ as torch_version
+from torch import __version__ as torch_version
 torch_version = torch_version.__str__().split('+')[0]
 
 setup_file_path = "src/PytorchNvCodec/setup.py"
